@@ -1,6 +1,6 @@
 {
-  "name": "draft-js-plugins",
-  "description": "A Plugin Architecture on top of Draft.JS",
+  "name": "draft-js-autocomplete-plugin",
+  "description": "Fork of Drafj.js plugins to create a simple autocomplete from mention suggestions",
   "version": "0.0.0",
   "author": {
     "name": "Nik Graf",
